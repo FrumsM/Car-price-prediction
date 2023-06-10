@@ -1,0 +1,9 @@
+# Ignore Git-related files
+/.git
+/.gitignore
+/.gitattributes
+
+# Ignore macOS operating system files
+.DS_Store
+.AppleDouble
+.LSOverride
